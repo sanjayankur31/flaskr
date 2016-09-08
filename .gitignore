@@ -1,3 +1,4 @@
 flask
 .ropeproject
 __pycache__
+*.db
